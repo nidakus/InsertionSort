@@ -27,7 +27,7 @@ O(n²)
 
 
 
-## 4. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.##
+## 4. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız. ##
 ```
 Best case O(n) kapsamina girer.
 ```
